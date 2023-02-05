@@ -1,1 +1,1 @@
-# LMS-difficult-Mcq-s
+# LMS-difficult-MCQs
